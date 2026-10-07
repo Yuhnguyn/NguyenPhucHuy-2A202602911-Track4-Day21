@@ -1,14 +1,12 @@
-# Báo cáo Day 6: [ĐIỀN tên đề tài ngắn]
+# Báo cáo Day 6: Kiểm định calibration LiDAR-camera bằng projection và đo độ nhạy với drift
 
-> Thay **mọi** ô có chữ ĐIỀN nằm trong ngoặc vuông bằng nội dung của bạn, xoá luôn cả dấu ngoặc vuông. Lệnh `python tools/check_submission.py` sẽ báo FAIL nếu còn sót bất kỳ chỗ nào.
-
-- **Họ tên:** [ĐIỀN]
-- **MSSV:** [ĐIỀN] (phải trùng với MSSV trong tên repo `<HoVaTen>-<MSSV>-Track4-Day21`)
-- **Lớp:** [ĐIỀN]
-- **Link repo:** [ĐIỀN]
-- **Topic:** [ĐIỀN một chữ cái A/B/C/D/E/F] — [ĐIỀN tên topic]
-- **Dataset:** [ĐIỀN một hoặc nhiều trong: data/synthetic, data/kitti_mini, data/nuscenes_mini_subset, log riêng]
-- **Các frame đã dùng:** [ĐIỀN danh sách frame id, ví dụ 000011, 000049 hoặc scene-0103_010]
+- **Họ tên:** Nguyen Phuc Huy
+- **MSSV:** 2A202602911
+- **Lớp:** K4 - Track 4 (AI20K)
+- **Link repo:** https://github.com/Yuhnguyn/NguyenPhucHuy-2A202602911-Track4-Day21
+- **Topic:** A — LiDAR-camera projection QA
+- **Dataset:** data/synthetic, data/kitti_mini, data/nuscenes_mini_subset
+- **Các frame đã dùng:** synthetic 000000–000004; kitti_mini 000011, 000016, 000019, 000004, 000009, 000061, 000031; nuscenes_mini_subset scene-0103_010, scene-0103_000, scene-1094_020
 
 > Hãy viết ngắn: mỗi mục từ 3 đến 8 dòng, ưu tiên số liệu và hình ảnh.
 
