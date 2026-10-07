@@ -14,7 +14,9 @@
 
 Một câu khẳng định kỹ thuật có thể kiểm chứng. Ví dụ: *"Lệch yaw 1° làm 12% điểm LiDAR rơi ra khỏi vật thể ở 30 m, phát hiện được bằng edge-alignment score với ngưỡng X."*
 
-[ĐIỀN]
+**Claim:** Lệch calibration yaw 1° làm tỉ lệ điểm LiDAR rơi đúng vào 2D box của vật thể ở khoảng cách 20–40 m giảm mạnh (≥ 5 điểm phần trăm), nên **tỉ lệ điểm-trong-box** phát hiện được drift; nhưng với vật thể lớn ở gần (&lt; 10 m), cùng mức drift đó làm metric thay đổi &lt; 1 điểm phần trăm, tức phương pháp **bỏ sót** drift.
+
+*(Số liệu chính xác được điền ở mục 2 sau khi chạy thí nghiệm.)*
 
 ## 2. Evidence
 
