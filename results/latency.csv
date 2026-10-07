@@ -1,0 +1,2 @@
+data_root,frame_id,n_points,n_runs,p50_ms,p95_ms,mean_ms,min_ms,max_ms
+data/kitti_mini,000011,108004,39,26.091,34.565,26.427,19.142,37.87
